@@ -1,0 +1,72 @@
+[
+  {
+    "text": "全部",
+    "id": 1,
+    "flag": true
+  },
+  {
+    "text": "时政",
+    "id": 2,
+    "flag": false
+  },
+  {
+    "text": "社会",
+    "id": 3,
+    "flag": false
+  },
+  {
+    "text": "经济",
+    "id": 4,
+    "flag": false
+  },
+  {
+    "text": "科技",
+    "id": 5,
+    "flag": false
+  },
+  {
+    "text": "产业",
+    "id": 6,
+    "flag": false
+  },
+  {
+    "text": "产品",
+    "id": 7,
+    "flag": false
+  },
+  {
+    "text": "全部",
+    "id": 8,
+    "flag": false
+  },
+  {
+    "text": "时政",
+    "id": 9,
+    "flag": false
+  },
+  {
+    "text": "社会",
+    "id": 10,
+    "flag": false
+  },
+  {
+    "text": "经济",
+    "id": 11,
+    "flag": false
+  },
+  {
+    "text": "科技",
+    "id": 12,
+    "flag": false
+  },
+  {
+    "text": "产业",
+    "id": 13,
+    "flag": false
+  },
+  {
+    "text": "产品",
+    "id": 14,
+    "flag": false
+  }
+]

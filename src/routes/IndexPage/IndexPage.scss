@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+ul, li, ol, li{
+  list-style: none;
+}
+html, body, #root, .wrapper{
+  width: 100%;
+  height: 100%;
+}
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: #eaeef1;
+}
+.events{
+  background: #fff;
+  box-sizing: border-box;
+  padding: 0 10px;
+}
+.eventsTit{
+  height: 40px;
+  line-height: 40px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #eee;
+  font-size: 20px;
+  font-weight: 800;
+  color: #113;
+}
+.dsc{
+  line-height: 50px;
+  font-size: 16px;
+  color: #666;
+}
+.tabList{
+  width: 100%;
+  height: 40px;
+  display: flex;
+}
+.tabItem{
+  flex: 1;
+  display: block;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 16px;
+  color: #666;
+  line-height: 40px;
+}
+.cur{
+  border-top: 2px solid #09f;
+  background: #eaeef1;
+  color: #09f;
+}
+.canvas{
+  width: 100%;
+  background: #eaeef1;
+}
+
